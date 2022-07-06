@@ -41,4 +41,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Link to Deployed Application
 
-[Page published here](https://jesus-orduno.github.io/orduno-challenge-one/)
+[Page published here](https://jesus-orduno.github.io/orduno-portfolio/)
